@@ -1,0 +1,5 @@
+Flask
+flask-script
+Flask-Login
+Flask-WTF
+Flask-Bootstrap
